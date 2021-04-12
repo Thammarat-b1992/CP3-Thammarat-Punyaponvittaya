@@ -1,0 +1,5 @@
+print("---5.2---")
+s = int(input("ระยะทาง :"))
+t = int(input("เวลา :"))
+v = int(s/t)
+print(v,"km/h")
